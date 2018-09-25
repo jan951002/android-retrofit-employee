@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="lab_employee_id">ID del empleado</string>
+    <string name="lab_employee_name">Nombre del empleado</string>
+    <string name="lab_create_employee">Crear</string>
+    <string name="lab_edit_employee">Actualizar</string>
+
+</resources>
